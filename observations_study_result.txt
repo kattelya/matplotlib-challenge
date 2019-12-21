@@ -1,0 +1,11 @@
+1. Observation is based on tumor volume growth rate in mm3. Based on the pivot table, we started with same size tumor volume.
+After given the medication, we can see based on the time point that Capomulin is the strongest drug to suppressed the growth of the tumor. 
+The other 3 drugs that we observed didn't slow down the tumor growth rate at all. 
+
+2. We also make observation based on the metastatic spread during the treatment. 
+Even though in the previous Tumor volume observation that Capomulin able to suppress the growth of the tumor; 
+However, the metastatic graph say otherwise because the tumor will still spread to other part of the body but in a slower rate than the other drugs tested. 
+
+3. Each experiment are started with 25 mice based on the 2 previous graph, we can already see that the mice treated with Capomulin will have higher chance to slow down the growth rate of the tumor. 
+We can confirmed our conclusion from the summary bar graph. Capomulin has 19% chance to slow down the growth rate of the tumor. 
+Meanwhile, the other 3 drugs that we observed, Ketapril happen to be the most non effective to help slow down the tumor growth rate.
